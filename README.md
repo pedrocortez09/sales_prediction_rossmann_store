@@ -25,7 +25,8 @@ A solução completa inclui:
 > *O usuário envia o ID da loja e recebe na hora a previsão das próximas 6 semanas.*
 
 🔗 **Assista ao vídeo:**  
-[▶️ Clique para assistir ao vídeo](./assets/telegrambot.mp4)
+[![Vídeo Demonstrativo](https://img.youtube.com/vi/O03UeaftW_E/0.jpg)](youtube.com/watch?v=O03UeaftW_E&feature=youtu.be)
+
 
 
 <br><br>
@@ -34,7 +35,7 @@ A solução completa inclui:
 > *Entender onde o modelo erra é tão importante quanto prever — aqui analisamos padrões de erro por loja, dia da semana, promoções e sazonalidade.*
 
 🔗 **Acessar Dashboard Power BI:**  
-**\[https://app.powerbi.com/view?r=eyJrIjoiOWNlZDFkZmUtOWNhMC00MjliLTliYWMtY2E4YWFkNDAwMGJhIiwidCI6IjhkOGE1MTdmLWUyZDEtNGFmMy05ZmM3LTc1OThmMWI2ZmQ4MyJ9\]**
+**\[https://app.powerbi.com/view?r=eyJrIjoiOWNlZDFkZmUtOWNhMC00MjliLTliYWMtY2E4YWFkNDAwMGJhIiwidCI6IjhkOGE1MTdmLWUyZDEtNGFmMy05ZmM3LTc1OThmMWI2ZmQ4MyJ9]**
 
 <br><br>
 
