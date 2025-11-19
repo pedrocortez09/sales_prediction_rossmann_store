@@ -35,7 +35,7 @@ A solução completa inclui:
 > *Entender onde o modelo erra é tão importante quanto prever — aqui analisamos padrões de erro por loja, dia da semana, promoções e sazonalidade.*
 
 🔗 **Acessar Dashboard Power BI:**  
-**\[https://app.powerbi.com/view?r=eyJrIjoiOWNlZDFkZmUtOWNhMC00MjliLTliYWMtY2E4YWFkNDAwMGJhIiwidCI6IjhkOGE1MTdmLWUyZDEtNGFmMy05ZmM3LTc1OThmMWI2ZmQ4MyJ9]**
+**\[https://app.powerbi.com/view?r=eyJrIjoiOWNlZDFkZmUtOWNhMC00MjliLTliYWMtY2E4YWFkNDAwMGJhIiwidCI6IjhkOGE1MTdmLWUyZDEtNGFmMy05ZmM3LTc1OThmMWI2ZmQ4MyJ9&pageName=6d061c34c14aa2783606]**
 
 <br><br>
 
