@@ -1,0 +1,13 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Modelos e parâmetros locais
+model/
+parameter/
+
+# Arquivos temporários e lixo
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
